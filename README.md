@@ -13,3 +13,5 @@ To do that type this in your console:
 ```
 npm i translate-google string-comparison languagedetect
 ```
+## To do:
+- [ ] Handle Discord emojis better
